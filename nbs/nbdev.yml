@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ml-examples"
+  site-url: "https://sbavery.github.io/ml-examples"
+  description: "Example Jupyter notebooks showing various machine learning techniques"
+  repo-branch: main
+  repo-url: "https://github.com/sbavery/ml-examples"
