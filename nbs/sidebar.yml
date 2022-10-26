@@ -3,3 +3,5 @@ website:
     contents:
       - index.ipynb
       - 00_generic_ml.ipynb
+      - 01_regression.ipynb
+      - 02_classification_sound.ipynb
