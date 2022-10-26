@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sbavery.github.io',
                 'git_url': 'https://github.com/sbavery/ml-examples',
                 'lib_path': 'ml_examples'},
-  'syms': {'ml_examples.generic_ml': {'ml_examples.generic_ml.check_gpu': ('generic_ml.html#check_gpu', 'ml_examples/generic_ml.py')}}}
+  'syms': {}}
