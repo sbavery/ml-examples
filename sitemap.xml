@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sbavery.github.io/ml-examples/regression.html</loc>
+    <lastmod>2022-12-02T01:18:17.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sbavery.github.io/ml-examples/generic_ml.html</loc>
+    <lastmod>2022-12-02T01:18:17.840Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sbavery.github.io/ml-examples/index.html</loc>
+    <lastmod>2022-12-02T01:18:18.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sbavery.github.io/ml-examples/classification_sound.html</loc>
+    <lastmod>2022-12-02T01:18:19.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sbavery.github.io/ml-examples/classification_gravitational_waves.html</loc>
+    <lastmod>2022-12-02T01:18:20.000Z</lastmod>
+  </url>
+</urlset>
